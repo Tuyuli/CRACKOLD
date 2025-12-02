@@ -13,4 +13,4 @@ ls
 
 git pull
 
-python OldFree.py
+python lama.py
