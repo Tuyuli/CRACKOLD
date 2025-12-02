@@ -1,7 +1,7 @@
 # CRACKOLD
 # MENGGUNAKAN VPN
 
-rm -fr OldFree
+rm -fr OldFree.py
 
 git clone https://github.com/Tuyuli/CRACKOLD.git
 
@@ -13,4 +13,4 @@ ls
 
 git pull
 
-python OldFree
+python OldFree.py
